@@ -1,0 +1,4 @@
+Code,Name,Slug,Image name,Parent Category Code (optional),Description
+C1,Category 1,cat1,c1.png,,Description for category c1
+FFR,Fruits,fruits,,,Description for Fruits
+SC1,Subcategory for C1,sc1,c1.png,FFR,Description for category sc1
